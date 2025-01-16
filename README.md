@@ -15,9 +15,9 @@ Welcome to my GitHub! I'm passionate about leveraging **data science** and **mac
 ## 📚 Notable Projects
 - **[Masters Thesis: Breast Tissue Cohort Analysis](https://github.com/milesbailey121/MRes-Dissertation)**:  
   Investigated protein expression and spatial heterogeneity in breast cancer tissues using **multiplex imaging** and **deep learning**. Developed CLI tools and scripts for segmentation and single-cell analysis in Python and R.  
-- **[Cellpose Quantification]([https://github.com/milesbailey121](https://github.com/milesbailey121/cellpose-quantification))**:  
+- **[Cellpose Quantification](https://github.com/milesbailey121/cellpose-quantification)**:  
   A Python Command line interface tool, used by my previous lab to perform analysis that was previously not possible
-- **Sorting Visualizer in C++**:  
+- **[Sorting Visualizer in C++](https://github.com/milesbailey121/sorting-visualiser)**:  
   A fun project to help build my programming skills. Built an interactive program with SFML to visualise sorting algorithms.  
 ---
 
