@@ -29,5 +29,5 @@ Welcome to my GitHub! I'm passionate about leveraging **data science** and **mac
 ## 🌟 Let's Collaborate!  
 I'm always excited to collaborate on projects at the intersection of **bioinformatics** and **data science** 
 
-- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/milesbailey)  
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/milesbailey121)  
 
