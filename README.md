@@ -21,7 +21,7 @@ Welcome to my GitHub!
   A fun project to help build my programming skills. Built an interactive program with SFML to visualise sorting algorithms.  
 ---
 
-## 🧠 What I'm Learning  
+## What I'm Learning  
 - Machine learning techniques for **bioinformatics and image analysis**  
 - Workflow management tools like **Snakemake** and **Nextflow**  
 ---
