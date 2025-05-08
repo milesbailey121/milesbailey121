@@ -3,7 +3,7 @@
 <img src="assets/MRes-Image.png" alt="Breast tissue analysis" width="512">
 
 
-Welcome to my GitHub! I'm a bioinformatician with a Master of Research in Big Data Biology and a strong focus on image-based research. I specialise in analysing high-resolution brightfield and fluorescence imaging data using Python and R for tissue segmentation, biomarker quantification, and spatial analysis.
+Welcome to my GitHub! I'm a bioinformatician with a Master of Research in Big Data Biology and a strong focus on image-based research. I specialise in analysing a wide variety of imaging data using Python and R for tissue segmentation, biomarker quantification, and spatial analysis.
 
 I’ve developed custom image analysis pipelines that process spatial and expression data across over 1.2 million cells, leveraging Python and R. My work aims bridge wet-lab and computational teams, helping translate technical outputs into meaningful biological insights. I’m also passionate about open science, reproducibility, and mentoring peers in computational methods.
 
