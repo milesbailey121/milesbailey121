@@ -1,7 +1,6 @@
-# Hi, I'm Miles Bailey!  
-##  Bioinformatician | MRes in Big Data Biology
-<img src="assets\MRes-Image.png" alt="Breast tissue analysis" style="float: right; width: 512px; margin-left: 15px; margin-bottom: 5px;"> 
-
+### Miles Bailey | Bioinformatician | MRes in Big Data Biology
+<!-- <img src="assets\MRes-Image.png" alt="Breast tissue analysis" style="float: right; width: 512px; margin-left: 15px; margin-bottom: 5px;">  -->
+<img src="assets/MRes-Image.png" alt="Breast tissue analysis" width="512">
 
 
 Welcome to my GitHub! I'm a bioinformatician with a Master of Research in Big Data Biology and a strong focus on image-based research. I specialise in analysing high-resolution brightfield and fluorescence imaging data using Python and R for tissue segmentation, biomarker quantification, and spatial analysis.
@@ -20,7 +19,7 @@ I’ve developed custom image analysis pipelines that process spatial and expres
 - **[Variant calling Nextflow Pipeline](https://github.com/milesbailey121/variant-calling-workflow)**:
   A Nextflow automated pipeline for variant calling (FASTQ to VCF) incorporating QC, alignment with implemented multi-platform deployment via Conda, Docker, and AWS Batch using Nextflow configuration profiles (BWA), variant calling (GATK), and annotation
 ---
-<img src="assets\simulation.gif" alt="Boid Simulator" 
+<!-- <img src="assets\simulation.gif" alt="Boid Simulator" 
      style="float: right; 
             width: 320px;
             margin-left: 15px; 
@@ -28,11 +27,13 @@ I’ve developed custom image analysis pipelines that process spatial and expres
             border-radius: 16px; /* Adjust for more/less rounding */
             object-fit: cover;
             box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
-            border: 1px solid #eaeaea;"> 
+            border: 1px solid #eaeaea;">  -->
 
 ## Personal Projects
 - **[Boid Simulator](https://github.com/milesbailey121/boid-simulator)**:
   A Python-based simulation of flocking behavior using vector maths and collision detection, designed to improve object-oriented programming and animation skills.
+  <img src="assets/simulation.gif" alt="Breast tissue analysis" width="420">
+
 - **[Sorting Visualizer in C++](https://github.com/milesbailey121/sorting-visualiser)**:  
   A C++ visualisation of classic sorting algorithms, built with SFML to animate the sorting process in real time.
 ---
