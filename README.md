@@ -32,7 +32,6 @@ I’ve developed custom image analysis pipelines that process spatial and expres
 ## Personal Projects
 - **[Boid Simulator](https://github.com/milesbailey121/boid-simulator)**:
   A Python-based simulation of flocking behavior using vector maths and collision detection, designed to improve object-oriented programming and animation skills.
-  <img src="assets/simulation.gif" alt="Breast tissue analysis" width="420">
 
 - **[Sorting Visualizer in C++](https://github.com/milesbailey121/sorting-visualiser)**:  
   A C++ visualisation of classic sorting algorithms, built with SFML to animate the sorting process in real time.
